@@ -1,0 +1,16 @@
+[
+  {
+    "id": "kulen001",
+    "name": "Phnom Kulen Waterfall",
+    "region": "Siem Reap",
+    "type": "Waterfall",
+    "description": "Sacred mountain with a stunning waterfall and reclining Buddha."
+  },
+  {
+    "id": "cardamom002",
+    "name": "Cardamom Mountains Trek",
+    "region": "Koh Kong",
+    "type": "Trekking",
+    "description": "Remote jungle trek with wildlife, rivers, and eco-camps."
+  }
+]
