@@ -13,5 +13,5 @@ connectDB();
 
 
 app.listen (config.port , ()=>{
-    console.log ('App is running on port' , process.env.PORT);
+    console.log ('App is running on port' , config.port);
 })
